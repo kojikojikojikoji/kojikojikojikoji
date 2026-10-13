@@ -7,7 +7,7 @@ Data scientist and product manager based in London. I work on Bayesian statistic
 | Project | What it does |
 |---|---|
 | [jpomop](https://github.com/kojikojikojikoji/jpomop) | Converts Japanese DPC inpatient data to the OMOP Common Data Model v5.4. Built from the public specification and synthetic data only. |
-| [partworth](https://github.com/kojikojikojikoji/partworth) | Hierarchical Bayes choice-based conjoint analysis in Python (PyMC), with Sawtooth-style outputs and a market simulator. |
+| [partworth](https://github.com/kojikojikojikoji/partworth) | Hierarchical Bayes choice-based conjoint analysis in Python (PyMC), with Sawtooth-style outputs and a market simulator. On PyPI: [`pip install partworth`](https://pypi.org/project/partworth/). |
 | [natural-japanese-writing](https://github.com/kojikojikojikoji/natural-japanese-writing) | An agent skill for Claude Code, Codex and Cursor that rewrites AI-sounding Japanese into natural Japanese without changing the facts. |
 
 ## Contributions to other projects
