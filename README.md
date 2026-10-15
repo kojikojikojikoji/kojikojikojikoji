@@ -1,6 +1,14 @@
 # Koji Miyazawa
 
-Data scientist and product manager based in London. I work on Bayesian statistics for healthcare data and marketing science, and publish the tools I build along the way.
+Data scientist in Japan. I lead the data business of a medical data company. We analyse electronic health records linked with cancer genomic panel test results from university hospitals and cancer specialist hospitals, for pharmaceutical companies.
+
+Some of the analyses:
+
+- Incidence of lung adverse events in patients on anticancer drugs
+- Frequency of gene variants in cancer patients
+- A pipeline that finds adverse events in free-text clinical notes
+
+I have also analysed Japanese health insurance claims and DPC hospital data, run conjoint surveys of doctors for six pharmaceutical companies, and worked with Bayesian statistics and causal inference.
 
 ## Open source
 
