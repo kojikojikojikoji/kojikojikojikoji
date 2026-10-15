@@ -1,14 +1,12 @@
 # Koji Miyazawa
 
-Data scientist in Japan. I lead the data business of a medical data company. We analyse electronic health records linked with cancer genomic panel test results from university hospitals and cancer specialist hospitals, for pharmaceutical companies.
+Data scientist in Japan.
 
-Some of the analyses:
+At a medical data company, I analyse electronic health records and cancer genomic panel test results from hospitals, for pharmaceutical companies. For example, how often lung side effects appear with anticancer drugs, how often gene variants appear, and finding side effects in free-text clinical notes.
 
-- Incidence of lung adverse events in patients on anticancer drugs
-- Frequency of gene variants in cancer patients
-- A pipeline that finds adverse events in free-text clinical notes
+At a small accounting and software company, I build business systems such as our internal ERP.
 
-I have also analysed Japanese health insurance claims and DPC hospital data, run conjoint surveys of doctors for six pharmaceutical companies, and worked with Bayesian statistics and causal inference.
+I also work with claims data, doctor surveys (conjoint analysis), Bayesian statistics and causal inference. I publish the tools I make here.
 
 ## Open source
 
