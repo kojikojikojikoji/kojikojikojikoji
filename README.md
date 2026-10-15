@@ -4,9 +4,9 @@ Data scientist in Japan.
 
 At a medical data company, I analyse electronic health records and cancer genomic panel test results from hospitals, for pharmaceutical companies. For example, how often lung side effects appear with anticancer drugs, how often gene variants appear, and finding side effects in free-text clinical notes.
 
-At a small accounting and software company, I build business systems such as our internal ERP.
+I also build products: an on-premise AI server, an ERP built from scratch, and software for accounting and education. I recently released [GogaQ](https://apps.apple.com/app/id6762157603), an iPhone and iPad app for learning languages from real sentences.
 
-I also work with claims data, doctor surveys (conjoint analysis), Bayesian statistics and causal inference. I publish the tools I make here.
+Other areas I work in: claims data, doctor surveys (conjoint analysis), Bayesian statistics and causal inference. I publish the tools I make here.
 
 ## Open source
 
