@@ -19,6 +19,7 @@ Other areas I work in: claims data, doctor surveys (conjoint analysis), Bayesian
 ## Contributions to other projects
 
 - [Synthea International #23](https://github.com/synthetichealth/synthea-international/pull/23), merged: a Japan configuration for Synthea, the synthetic patient data generator. It adds Japanese regions, prefectures and municipalities, hospitals and clinics, income data, and patient cost sharing.
+- [awesome-japanese-nlp-resources #33](https://github.com/taishi-i/awesome-japanese-nlp-resources/pull/33), merged: added natural-japanese-writing to the list of Japanese NLP resources.
 - [ArviZ (arviz-stats) #489](https://github.com/arviz-devs/arviz-stats/pull/489), merged: `hdi` now returns NaN for both bounds when the input contains NaN and `skipna` is False.
 - [OHDSI CommonDataModel #819](https://github.com/OHDSI/CommonDataModel/pull/819), open: typo fixes in the OMOP CDM documentation.
 
