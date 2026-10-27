@@ -23,6 +23,8 @@ Other areas I work in: claims data, doctor surveys (conjoint analysis), Bayesian
 - [ArviZ (arviz-stats) #489](https://github.com/arviz-devs/arviz-stats/pull/489), merged: `hdi` now returns NaN for both bounds when the input contains NaN and `skipna` is False.
 - [PyHealth #1310](https://github.com/sunlabuiuc/PyHealth/pull/1310), merged: added the OMOP tables `observation_period`, `visit_detail`, `observation` and `device_exposure` to the default OMOP config, with test data.
 - [PyMC #8524](https://github.com/pymc-devs/pymc/issues/8524), fixed in [#8522](https://github.com/pymc-devs/pymc/pull/8522) with me as co-author: `StudentT` and `SkewStudentT` `logcdf` returned NaN at ±inf, so one-sided truncated draws were all NaN.
+- [PyMC-Marketing #3250](https://github.com/pymc-labs/pymc-marketing/pull/3250), merged: the `NestedLogit` inclusive value dropped the max utility, so with λ=1 nest probabilities did not reduce to the multinomial logit. Added the missing term and a closed-form test.
+- [Orca #28921](https://github.com/stablyai/orca/pull/28921), merged: sidebar text that stayed in English under the Japanese UI now goes through translation, and 25 Japanese strings with the wrong meaning are fixed.
 - [OHDSI CommonDataModel #819](https://github.com/OHDSI/CommonDataModel/pull/819), open: typo fixes in the OMOP CDM documentation.
 
 ## Worked examples in Bayesian statistics
