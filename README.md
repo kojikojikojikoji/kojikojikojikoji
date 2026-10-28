@@ -8,7 +8,7 @@ I also work on digital transformation (DX) and AI adoption for small and mid-siz
 
 Other areas I work in: claims data, doctor surveys (conjoint analysis), Bayesian statistics and causal inference. I publish the tools I make here.
 
-## Open source
+## My open-source projects
 
 | Project | What it does |
 |---|---|
