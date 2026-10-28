@@ -16,7 +16,7 @@ Other areas I work in: claims data, doctor surveys (conjoint analysis), Bayesian
 | [partworth](https://github.com/kojikojikojikoji/partworth) | Hierarchical Bayes choice-based conjoint analysis in Python (PyMC), with Sawtooth-style outputs and a market simulator. On PyPI: [`pip install partworth`](https://pypi.org/project/partworth/). |
 | [natural-japanese-writing](https://github.com/kojikojikojikoji/natural-japanese-writing) | An agent skill for Claude Code, Codex and Cursor that rewrites AI-sounding Japanese into natural Japanese without changing the facts. |
 
-## Contributions to other projects
+## Open-source contributions
 
 - [Synthea International #23](https://github.com/synthetichealth/synthea-international/pull/23), merged: a Japan configuration for Synthea, the synthetic patient data generator. It adds Japanese regions, prefectures and municipalities, hospitals and clinics, income data, and patient cost sharing.
 - [awesome-japanese-nlp-resources #33](https://github.com/taishi-i/awesome-japanese-nlp-resources/pull/33), merged: added natural-japanese-writing to the list of Japanese NLP resources.
